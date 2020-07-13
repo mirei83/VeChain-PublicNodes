@@ -46,7 +46,7 @@ curl -s -X GET https://mainnet.veblocks.net/blocks/best -H  "accept: application
 
 Use as bootnode:
 ```
-./thor --network main --bootnode enode://6bd860159b853d76d77a850f20e5975bb784756058cf8d32ea6f79eeb40b73e4dda5fbc05a6ca2764df2cd119f548b30162fcc9df63e956a8dd09923e712c1a6@mainnet.veblocks.net:11235
+./thor --network main --bootnode enode://6bd860159b853d76d77a850f20e5975bb784756058cf8d32ea6f79eeb40b73e4dda5fbc05a6ca2764df2cd119f548b30162fcc9df63e956a8dd09923e712c1a6@95.216.240.98:11235
 ```
 
 
