@@ -30,7 +30,7 @@ https://solo.veblocks.net
 ```
 (resets all 24 hours)
 
-These addresses cointains VET/VTHO in SOLO:
+These addresses cointain VET/VTHO in SOLO:
 
 
 | Address        | Private Key|
