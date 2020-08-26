@@ -4,7 +4,7 @@ VeBlocks provides access to all VeChain Thor networks via publicly accessible HT
 
 ## Getting Started
 
-All node are maintained by VeBlocks and always kept compatible with the networks. The only limitation is 3000 open connections per IP address. The nodes are accessible via HTTP/HTTPS and P2P, making them also availible as bootnode.
+All node are maintained by VeBlocks and always kept compatible with the networks. The only limitation is 3000 open connections per IP address. The nodes are accessible via HTTP/HTTPS and P2P, making them also available as bootnode.
 
 
 ## Using the nodes
