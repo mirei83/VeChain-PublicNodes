@@ -78,7 +78,7 @@ Use as bootnode:
 This is a community project and the nodes will be up as much as possible but there may be short downtimes due to updates/upgrades or any other hard/software failure. VeBlocks is not responsible for your software. Consider these variables when using the nodes!
 
 ### Pre-compiled windows nodes
-You can use my precompiled windows thor node software. Always remember that this is a "quality of life"-download. If you want to use thor in a professional environment, compile the software yourself to ensure data-integrity.
+You can use my precompiled windows thor node software. This will use up about 60GB on your C-drive and will take 8-48h to sync. Always remember that this is a "quality of life"-download. If you want to use thor in a professional environment, compile the software yourself to ensure data-integrity.
 
 https://cdn.veblocks.net/VeChain-thor1.3.6.zip
 
