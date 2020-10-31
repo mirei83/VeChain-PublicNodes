@@ -1,6 +1,7 @@
 # Public VeChain Thor nodes
 
 VeBlocks provides access to all VeChain Thor networks via publicly accessible HTTP/HTTPS connections. This is a community project to support all developers and allow them everywhere-access to the blockchain, without the need to have a full node with them.
+I will not collect or chance any data coming/going to the nodes. There are just some logs kept for maintenance and performance evaluation. These logs will be deleted after 14 days. 
 
 ## Getting Started
 
