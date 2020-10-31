@@ -85,4 +85,5 @@ https://cdn.veblocks.net/VeChain-thor1.3.6.zip
 ## Contact
 E-Mail: veblocks@pm.me  
 Telegram: https://t.me/mirei83
+Donation: 0xD88bf449EcF41993685fDA562FBB23a5fE7fFCd5 (VeChain)
 
