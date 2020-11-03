@@ -15,7 +15,6 @@ Use the following node endpoints:
 Mainnet: https://sync-mainnet.veblocks.net   
 Testnet: https://sync-testnet.veblocks.net   
    
-Demo Video: https://youtu.be/2WkNO2blF9g
 
 
 ### VeChain mainnet connection node
