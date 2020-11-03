@@ -10,7 +10,15 @@ All node are maintained by VeBlocks and always kept compatible with the networks
 
 ## Using the nodes
 
-### VeChain mainnet node
+### Use nodes in Sync
+Use the following node endpoints:   
+Mainnet: https://sync-mainnet.veblocks.net   
+Testnet: https://sync-testnet.veblocks.net   
+   
+Demo Video: https://youtu.be/2WkNO2blF9g
+
+
+### VeChain mainnet connection node
 ```
 http://mainnet.veblocks.net
 https://mainnet.veblocks.net
@@ -19,7 +27,7 @@ wss://mainnet.veblocks.net/subscriptions/beat
 P2P:    enode://6bd860159b853d76d77a850f20e5975bb784756058cf8d32ea6f79eeb40b73e4dda5fbc05a6ca2764df2cd119f548b30162fcc9df63e956a8dd09923e712c1a6@[95.216.240.98]:11235
 ```
 
-### VeChain testnet node
+### VeChain testnet connection node
 ```
 http://testnet.veblocks.net
 https://testnet.veblocks.net
@@ -74,13 +82,6 @@ Use as bootnode:
 ./thor --network main --bootnode enode://6bd860159b853d76d77a850f20e5975bb784756058cf8d32ea6f79eeb40b73e4dda5fbc05a6ca2764df2cd119f548b30162fcc9df63e956a8dd09923e712c1a6@95.216.240.98:11235
 ```
    
-### Use in Sync
-Use the following node endporints:   
-Mainnet: https://sync-mainnet.veblocks.net   
-Testnet: https://sync-testnet.veblocks.net   
-   
-Demo Video: https://youtu.be/2WkNO2blF9g
-
 
 ### Uptime and connectivity
 This is a community project and the nodes will be up as much as possible but there may be short downtimes due to updates/upgrades or any other hard/software failure. VeBlocks is not responsible for your software. Consider these variables when using the nodes!
