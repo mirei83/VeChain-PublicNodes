@@ -14,6 +14,8 @@ All node are maintained by VeBlocks and always kept compatible with the networks
 Use the following node endpoints:   
 Mainnet: https://sync-mainnet.veblocks.net   
 Testnet: https://sync-testnet.veblocks.net   
+
+Demo HowTo: https://youtu.be/FogF2c-ypSg
    
 
 
