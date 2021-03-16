@@ -42,7 +42,7 @@ P2P:    enode://04bbc1fd670fb4fa56eaa44978c8bb0acd5542c6f4460d732ecba2ad9c8aac3c
 ### VeChain PoA2.0 testnet node
 ```
 https://poa2.veblocks.net
-https://poa2.veblocks.net/subscriptions/beat
+wss://poa2.veblocks.net/subscriptions/beat
 P2P:  enode://5b102417ce21aa0bb4c6750394e161c957e5e12b62e7e8ec950efbd60611049f39822723d0c85b10ba2f9b6e4c62d8dc78a98e477a35fa3f47fb5d7fa7576a00@[95.216.240.102]:11235 
 ```
 
