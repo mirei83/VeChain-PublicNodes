@@ -31,18 +31,25 @@ P2P:    enode://6bd860159b853d76d77a850f20e5975bb784756058cf8d32ea6f79eeb40b73e4
 
 ### VeChain testnet node
 ```
-http://testnet.veblocks.net
-https://testnet.veblocks.net
-ws://testnet.veblocks.net/subscriptions/beat
+Cloudflare, loadbalanced:
+https://testnet.veblocks.net 
 wss://testnet.veblocks.net/subscriptions/beat
-P2P:    enode://04bbc1fd670fb4fa56eaa44978c8bb0acd5542c6f4460d732ecba2ad9c8aac3ca90513588a3a432af0c93ceb614d86e6db4ac866a9f74a55a9358602f6bf658a@[95.216.240.99]:11235
+
+Direct access (no cloudflare):
+http://testnet02.vechain.fi.blockorder.net
+http://testnet02.vechain.de.blockorder.net
+https://testnet02.vechain.fi.blockorder.net
+https://testnet02.vechain.de.blockorder.net
+
+
+P2P:    enode://e1b939267163da7e379d6aa0b8ec114b7805c3880b243e39b1af6d68eefbe168240ba86dfed9c029c20764ab41fd3ab287ffeaed6f532180ff5dcb5dd39b9007@46.4.110.179:11235
+P2P:    enode://70d6540d22255e171506d1619332325ed1fe0fdc00dbebcf391d74429b0a226bf6b1fa814565f4d02d5d675c2766c1349fd8cd301ec635f418c2091ceca61de2@65.21.218.227:11235
 ```
+
 
 ### VeChain solo node
 ```
-http://solo.veblocks.net
 https://solo.veblocks.net
-ws://solo.veblocks.net/subscriptions/beat
 wss://solo.veblocks.net/subscriptions/beat
 ```
 (resets all 24 hours)
