@@ -22,11 +22,18 @@ Demo HowTo: https://youtu.be/FogF2c-ypSg
 
 ### VeChain mainnet node
 ```
-http://mainnet.veblocks.net
+Cloudflare, loadbalanced:
 https://mainnet.veblocks.net
-ws://mainnet.veblocks.net/subscriptions/beat
 wss://mainnet.veblocks.net/subscriptions/beat
-P2P:    enode://6bd860159b853d76d77a850f20e5975bb784756058cf8d32ea6f79eeb40b73e4dda5fbc05a6ca2764df2cd119f548b30162fcc9df63e956a8dd09923e712c1a6@[95.216.240.98]:11235
+
+Direct access (no cloudflare):
+http://mainnet02.vechain.fi.blockorder.net
+http://mainnet02.vechain.de.blockorder.net
+https://mainnet02.vechain.fi.blockorder.net
+https://mainnet02.vechain.de.blockorder.net
+
+P2P:    enode://46d5f5a4894b37f7b4955641a7ee6d31478d61c4f355139a3fe1d9f5a10d7176a23b9290a572e80cd99e026651781a73e8582780978882ad29998c0b77fb46e0@46.4.110.178:11235
+P2P:    enode://daa81e14c0d3db3536cb68a9d3bad5e805cfc7fda1d7969c7f4bdb1bafa278f4fa83ac59405b638b96a195f2a57c5b8c4d1290f08485f0bba36868ec6d0819e3@65.21.218.226:11235
 ```
 
 ### VeChain testnet node
