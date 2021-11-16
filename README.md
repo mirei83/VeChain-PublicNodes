@@ -105,7 +105,7 @@ This is a community project and the nodes will be up as much as possible but the
 ### Pre-compiled windows nodes
 You can use my precompiled windows thor node software. This will use up about 60GB on your C-drive and will take 8-48h to sync. Always remember that this is a "quality of life"-download. If you want to use thor in a professional environment, compile the software yourself to ensure data-integrity.
 
-https://cdn.veblocks.net/VeChain-thor1.4.0.zip
+https://cdn.veblocks.net/VeChain-thor1.6.0.zip
 
 ## Contact
 E-Mail: veblocks@pm.me  
