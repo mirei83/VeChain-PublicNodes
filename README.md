@@ -27,10 +27,8 @@ https://mainnet.veblocks.net
 wss://mainnet.veblocks.net/subscriptions/beat
 
 Direct access (no cloudflare):
-http://mainnet02.vechain.fi.blockorder.net
-http://mainnet02.vechain.de.blockorder.net
-https://mainnet02.vechain.fi.blockorder.net
-https://mainnet02.vechain.de.blockorder.net
+http://mainnet.vechain.blockorder.net
+https://mainnet.vechain.blockorder.net
 
 ```
 
@@ -41,10 +39,8 @@ https://testnet.veblocks.net
 wss://testnet.veblocks.net/subscriptions/beat
 
 Direct access (no cloudflare):
-http://testnet02.vechain.fi.blockorder.net
-http://testnet02.vechain.de.blockorder.net
-https://testnet02.vechain.fi.blockorder.net
-https://testnet02.vechain.de.blockorder.net
+http://testnet.vechain.blockorder.net
+https://testnet.vechain.blockorder.net
 
 
 ```
