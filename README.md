@@ -29,7 +29,6 @@ wss://mainnet.veblocks.net/subscriptions/beat
 Direct access (no cloudflare):
 http://mainnet.vechain.blockorder.net
 https://mainnet.vechain.blockorder.net
-
 ```
 
 ### VeChain testnet node
@@ -41,8 +40,6 @@ wss://testnet.veblocks.net/subscriptions/beat
 Direct access (no cloudflare):
 http://testnet.vechain.blockorder.net
 https://testnet.vechain.blockorder.net
-
-
 ```
 
 
