@@ -32,8 +32,6 @@ http://mainnet02.vechain.de.blockorder.net
 https://mainnet02.vechain.fi.blockorder.net
 https://mainnet02.vechain.de.blockorder.net
 
-P2P:    enode://10021fcce0d77702951df5c754eb98ae1008db3872cf0299ba206005037d26843d114db41e9a19c63e2b483c5f708a542a2143cf65b551283f848ae70cb38d99@116.202.112.204:11235
-P2P:    enode://a56d8fb1ea622651f79b669d60c969afd895b54e94afa0704754db6920796c17df44613a54f9e3abfbde46bc9760a9eb0896cbd15174f84a8af19cbb31f5f42b@65.109.33.133:11235
 ```
 
 ### VeChain testnet node
@@ -49,8 +47,6 @@ https://testnet02.vechain.fi.blockorder.net
 https://testnet02.vechain.de.blockorder.net
 
 
-P2P:    enode://25d07ba27a7d87b75ec9f4d35cd3b64a7482720169527502f1800e7a22aeece8330a78f8b63f75c46d3bbd49d41ca15d426f380fedf525c4288a1d022df6d7e0@116.202.112.212:11235
-P2P:    enode://4a2bb9bb8fe46fdcdf56dc01bbe50b09ed51b3f72bcefa6305cc41760fa145970c6ba6b8cf2c6659bb5410218632b05c455f2f16d918eaa93d839824b328bc2f@65.109.33.132:11235
 ```
 
 
