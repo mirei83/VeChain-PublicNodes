@@ -45,8 +45,13 @@ https://testnet.vechain.blockorder.net
 
 ### VeChain solo node
 ```
+Cloudflare:
 https://solo.veblocks.net
 wss://solo.veblocks.net/subscriptions/beat
+
+Direct access (no cloudflare):
+https://solo.vechain.blockorder.net
+wss://solo.vechain.blockorder.net/subscriptions/beat
 ```
 (resets all 24 hours)
 
