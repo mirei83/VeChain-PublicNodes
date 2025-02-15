@@ -5,7 +5,7 @@ I will not collect or chance any data coming/going to the nodes. There are just 
 
 ## Getting Started
 
-All node are maintained by VeBlocks and always kept compatible with the networks. The only limitation is 3000 open connections per IP address. The nodes are accessible via HTTP/HTTPS and P2P, making them also available as bootnode.
+All node are maintained by VeBlocks and always kept compatible with the networks. The only limitation is 3000 open connections and a maximum of 100 requests per 10 seconds against /blocks/best (bercause there are always some idiots) per IP address. The nodes are accessible via HTTP/HTTPS and P2P, making them also available as bootnode.
 
 
 ## Using the nodes
